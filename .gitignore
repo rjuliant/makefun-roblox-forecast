@@ -1,0 +1,6 @@
+# local test output
+out/
+
+# Python
+__pycache__/
+*.pyc
